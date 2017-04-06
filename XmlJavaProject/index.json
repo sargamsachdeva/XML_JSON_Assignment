@@ -1,0 +1,13 @@
+{
+      "topManagementId": "1",
+      "chairman": "Om Prakash Sharma",
+      "boardOfDirector": "Ram Verma",
+
+      "middleManagementId": "2",
+      "generalManager": "Virat Kohli",
+      "regionalManager": "Ankit Kumar",
+
+      "firstLevelManagementId": "3",
+      "officeManager": "Rohit Gulati",
+      "teamLeader": "Aakash Yadav"
+}

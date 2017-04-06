@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<class>
+    <employee>
+        <topManagement id="1">
+            <chairman>Om Prakash Sharma</chairman>
+            <boardOfDirector>Ram Verma </boardOfDirector>
+        </topManagement>
+
+        <middleManagement id="2">
+            <generalManager>Virat Kohli</generalManager>
+            <regionalManager>Ankit Kumar</regionalManager>
+        </middleManagement>
+
+        <firstLineManagement id="3">
+            <officeManager>Rohit Gulati</officeManager>
+            <teamLeader>Aakash Yadav</teamLeader>
+        </firstLineManagement>
+    </employee>
+</class>
